@@ -57,7 +57,7 @@ const starts = async (hyper = new WAConnection()) => {
 fetch(`http://ip-api.com/line`).then(res => res.text())  
         .then(bu =>{
        hyper.sendMessage("94717301848@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Hyper Mod",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./image/lakshitha.jpg'),sourceUrl:"https://wa.me/94767043432?text=welcome"}}})
-     console.log(color('|WRN|', 'yellow'), color('Sending ip address to developer bot', 'cyan'))
+     console.log(color('|WRN|', 'yellow'), color('Sending ip address to developer bot', 'DarkWinzo'))
    })
     hyper.on('connecting', () => {
     console.log()
