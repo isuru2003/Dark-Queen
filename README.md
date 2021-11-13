@@ -1,4 +1,4 @@
-# Queen Alexa
+# Dark-Queen
 
 <img
         src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
@@ -13,10 +13,10 @@
 WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
-# ```ALEXA-BUG-BOT```
+# ```DARK-QUEEN-BUG-BOT```
 <p align="center">
-<a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
-<a href="https://github.com/HYPER-MOD/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HYPER-MOD/bug-bot?color=blue&style=flat-square"></a>
+<a href="https://github.com/DarkWinzo/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
+<a href="https://github.com/DarkWinzo/Dark-Queen/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HYPER-MOD/bug-bot?color=blue&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HYPER-MOD/bug-bot?color=red&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HYPER-MOD/bug-bot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
@@ -52,10 +52,6 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 <p align="center">
   <a href="https://youtube.com/c/HYPERMOD"><img src="https://i.ibb.co/TPqc8cv/Screenshot-2021-10-14-12-00-45-610-com-android-chrome.jpg" />
 </p>
-
-## ```HOW TO DEPLOY```
-
-[`Click Here For Tutorial`](https://youtu.be/BcMIibIUmHc)<br>
 
 ----------
 
