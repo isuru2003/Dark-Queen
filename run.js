@@ -7,8 +7,8 @@ var cp = require('child_process');
 require("./main.js");
 nocache("./main.js", (module) => console.log(`${module} is now updated!`));
 
-require("./Queen-Alexa.js");
-nocache("./Queen-Alexa.js", (module) => console.log(`${module} is now updated!`))
+require("./Dark-Queen.js");
+nocache("./Dark-Queen.js", (module) => console.log(`${module} is now updated!`))
 ;
 
 var server = cp.fork('main.js');
@@ -20,7 +20,7 @@ fs.watchFile('main.js', function (event, filename) {
     server = cp.fork('main.js');
 });
 
-fs.watchFile('Queen-Alexa.js', function (event, filename) {
+fs.watchFile('Dark-Queen.js', function (event, filename) {
     server.kill();
     console.log('Server stopped');
     server = cp.fork('main.js');
