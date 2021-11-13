@@ -1,7 +1,7 @@
 {
-  "name": "Queen-Alexa",
+  "name": "Dark-Queen",
   "version": "1.0.0",
-  "description": "Queen-Alexa",
+  "description": "Dark-Queen",
   "main": "run.js",
   "directories": {
     "lib": "lib"
@@ -53,8 +53,8 @@
   "keywords": [
     "self bot wa"
   ],
-  "author": "Queen-Alexa",
+  "author": "Dark-Queen",
   "license": "ISC",
   "bugs": {},
-  "homepage": "https://github.com/HYPER-MOD"
+  "homepage": "https://github.com/DarkWinzo/Dark-Queen"
 }
