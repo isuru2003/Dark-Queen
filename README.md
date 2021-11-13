@@ -8,7 +8,7 @@
 </p>
 <div align="center">
   <p align="center">
-  <a href="https://github.com/DarkWinzo/Dark-Queen.git"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
+  <a href="https://github.com/isuru2003/Dark-Queen.git"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>Dark-Queen-
 WhatsApp Bot
 
