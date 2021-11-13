@@ -1,7 +1,7 @@
 # Dark-Queen
 
 <img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+Deploy+To+Heroku+Button+Install+The+Bot."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+Deploy+To+Heroku+Button+Install."
             alt="Typing SVG"
         />
     </a>
