@@ -41,7 +41,7 @@ WhatsApp Bot
 
 - Owner number [Here](https://github.com/DarkWinzo/Dark-Queen/blob/main/settings.json#L4)
 - Owner Name [Here](https://github.com/DarkWinzo/Dark-Queen/blob/main/settings.json#L14)
-- Bot Name [Here](https://github.com/DarkWinzo/Dark-Queen/blob/main/settings.json#L15)
+- Bot Name [Here](https://github.com/DarkWinzo/Dark-Queen/blob/main/settings.json#L14)
 
 ## `CHANGE DYNO`
 
