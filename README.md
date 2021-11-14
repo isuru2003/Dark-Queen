@@ -12,7 +12,7 @@
 </p>Dark-Queen-
 WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkWinzo/Dark-Queen)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/isuru2003/Dark-Queen)
 # ```DARK-QUEEN-BUG-BOT```
 <p align="center">
 <a href="https://github.com/DarkWinzo/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
